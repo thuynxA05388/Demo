@@ -1,0 +1,6 @@
+E:\thuy\C#\Lab\Lab1\Exercise1\Factorials\bin\Debug\Factorials.exe.config
+E:\thuy\C#\Lab\Lab1\Exercise1\Factorials\bin\Debug\Factorials.exe
+E:\thuy\C#\Lab\Lab1\Exercise1\Factorials\bin\Debug\Factorials.pdb
+E:\thuy\C#\Lab\Lab1\Exercise1\Factorials\obj\Debug\Factorials.csprojResolveAssemblyReference.cache
+E:\thuy\C#\Lab\Lab1\Exercise1\Factorials\obj\Debug\Factorials.exe
+E:\thuy\C#\Lab\Lab1\Exercise1\Factorials\obj\Debug\Factorials.pdb

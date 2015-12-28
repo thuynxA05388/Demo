@@ -1,0 +1,6 @@
+E:\thuy\C#\Lab\Lab1\Exercise1\Test\bin\Debug\Test.exe.config
+E:\thuy\C#\Lab\Lab1\Exercise1\Test\bin\Debug\Test.exe
+E:\thuy\C#\Lab\Lab1\Exercise1\Test\bin\Debug\Test.pdb
+E:\thuy\C#\Lab\Lab1\Exercise1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\thuy\C#\Lab\Lab1\Exercise1\Test\obj\Debug\Test.exe
+E:\thuy\C#\Lab\Lab1\Exercise1\Test\obj\Debug\Test.pdb

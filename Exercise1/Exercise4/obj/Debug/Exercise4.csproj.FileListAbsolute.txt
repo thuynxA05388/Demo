@@ -1,0 +1,5 @@
+E:\thuy\C#\Lab\Lab1\Exercise1\Exercise4\bin\Debug\Exercise4.exe.config
+E:\thuy\C#\Lab\Lab1\Exercise1\Exercise4\bin\Debug\Exercise4.exe
+E:\thuy\C#\Lab\Lab1\Exercise1\Exercise4\bin\Debug\Exercise4.pdb
+E:\thuy\C#\Lab\Lab1\Exercise1\Exercise4\obj\Debug\Exercise4.exe
+E:\thuy\C#\Lab\Lab1\Exercise1\Exercise4\obj\Debug\Exercise4.pdb
